@@ -1,0 +1,1 @@
+export function FacilityChip({ children }: { children: React.ReactNode }) { return <span className="inline-flex items-center rounded-full border border-[#e3e7e6] bg-[#f8faf9] px-2.5 py-1 text-xs font-medium text-[#53616a]">{children}</span>; }
